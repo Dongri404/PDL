@@ -17,7 +17,7 @@ The code has been refactored. Please raise any issues.
    ```shell
    git clone https://github.com/Dongri404/PDL.git
    cd PDL
-   conda create --name self_mm python=3.8
+   conda create --name pdl python=3.8
    source activate pdl
    pip install -r requirements.txt
    ```
